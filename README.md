@@ -5,4 +5,14 @@ For TSP was written generator.
 
 # Results
 
-<img src="./Tests/Example_1.png" width='1300px'/>
+## fd
+
+<img src="./Tests/Example_1.png" width='130px'/>
+
+## fd
+
+<img src="./Tests/Example_1.png" width='130px'/>
+
+## fd
+
+<img src="./Tests/Example_1.png" width='130px'/>
