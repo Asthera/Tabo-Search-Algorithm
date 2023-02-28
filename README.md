@@ -7,12 +7,12 @@ For TSP was written generator.
 
 ## fd
 
-<img src="./Tests/Example_1.png" width='130px'/>
+<img src="./Tests/Example_1.png" width='500px'/>
 
 ## fd
 
-<img src="./Tests/Example_1.png" width='130px'/>
+<img src="./Tests/Example_1.png" width='700px'/>
 
 ## fd
 
-<img src="./Tests/Example_1.png" width='130px'/>
+<img src="./Tests/Example_1.png" width='900px'/>
